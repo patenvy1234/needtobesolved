@@ -2,4 +2,5 @@
 int main(){
     int n;
     cout << n;
+    cout << n;
 }
